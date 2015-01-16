@@ -10,11 +10,9 @@ No additional Package needs to be installed, it works directly out of the box.
 
 We have tried to bundle all the required utilities to make this most helpful for Windows Users.
 
-## [Download ESP8266-UofWin-SDK-v01.zip]()
+## [Download ESP8266-UofWin-SDK-portable-v01.zip](https://drive.google.com/file/d/0B0LHhwkPhcG8VDlUN2Y3WUZuVTg/view?usp=sharing)
 
-**MD5-SUM** = ``
-
-**SHA1-SUM** = ``
+**MD5-SUM** = `3bd66a940d7ae913a9f4bf34991490e3`
 
 
 ## Additional Modules

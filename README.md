@@ -10,11 +10,11 @@ No additional Package needs to be installed, it works directly out of the box.
 
 We have tried to bundle all the required utilities to make this most helpful for Windows Users.
 
-## [Download ESP8266-UofWin-SDK-portable-v01.zip](https://drive.google.com/file/d/0B0LHhwkPhcG8VDlUN2Y3WUZuVTg/view?usp=sharing)
+## [Download ESP8266-UofWin-SDK-portable-v01.zip](https://drive.google.com/file/d/0B0LHhwkPhcG8blB2aUZRVkNhSDA/view?usp=sharing)
 
 **File Size: 635.55 MB**
 
-**MD5-SUM** = `3bd66a940d7ae913a9f4bf34991490e3`
+**MD5-SUM** = `a46044025137ecbfc94bce0e0c57a6e1`
 
 
 ## Additional Modules

@@ -63,13 +63,23 @@ We have tried to bundle all the required utilities to make this most helpful for
 
 ## Some Useful Images
 
-![Bigger Picture of the ESP-01 Module](ESP8266-ESP01-boardpicture.jpg)
+### Bigger Picture of the ESP-01 Module:
 
-![Eclipse Path configuration for Code Complete in Windows SDK](ESP8266-Windows-SDK-Codecompletion.png)
+![](https://raw.githubusercontent.com/boseji/ESP8266-uof-windows-sdk-portable/master/images/ESP8266-ESP01-boardpicture.jpg)
 
-![ESP8266 Pin Configuration](docs/ESP8266EX Layout.jpg)
 
-![ESP-01 module PCB layout View](docs/ESP-01 plate.png)
+### ESP-01 module PCB layout View
+
+![](https://raw.githubusercontent.com/boseji/ESP8266-uof-windows-sdk-portable/master/images/ESP-01 plate.png)
+
+
+### Eclipse Path configuration for Code Complete in Windows SDK
+![](https://raw.githubusercontent.com/boseji/ESP8266-uof-windows-sdk-portable/master/images/ESP8266-Windows-SDK-Codecompletion.png)
+
+
+### ESP8266 Pin Configuration
+
+![](https://raw.githubusercontent.com/boseji/ESP8266-uof-windows-sdk-portable/master/images/ESP8266EX Layout.jpg)
 
 
 ## License
